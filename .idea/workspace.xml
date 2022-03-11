@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef577091-3476-4f1b-9133-a4a04955f706" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.husky/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.husky/commit-msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.husky/pre-commit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.storybook/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.storybook/preview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commitlint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lerna-debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lerna.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ow-foundation/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ow-foundation/__tests__/ow-foundation.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ow-foundation/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ow-foundation/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ow-foundation/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ow-ui/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ow-ui/__tests__/ow-ui.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ow-ui/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ow-ui/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ow-ui/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/Button.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/Button.stories.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/Header.stories.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/Introduction.stories.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/Page.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/Page.stories.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/assets/code-brackets.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/assets/colors.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/assets/comments.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/assets/direction.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/assets/flow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/assets/plugin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/assets/repo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/assets/stackalt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="25mQZ6qjCulmw6S8zNojtlQuFbB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="E:\OW_UI\node_modules\prettier" />
+    <property name="ts.external.directory.path" value="E:\OW_UI\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\OW_UI\packages\ow-ui\node_modules\ow-foundation\lib" />
+      <recent name="E:\OW_UI\packages\ow-foundation\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\OW_UI\packages\ow-ui" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef577091-3476-4f1b-9133-a4a04955f706" name="Default Changelist" comment="" />
+      <created>1646129835086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646129835086</updated>
+      <workItem from="1646129836237" duration="6648000" />
+      <workItem from="1646185123750" duration="610000" />
+      <workItem from="1646191706117" duration="12404000" />
+      <workItem from="1646271573375" duration="2918000" />
+      <workItem from="1646905242647" duration="3966000" />
+      <workItem from="1646913279455" duration="2204000" />
+      <workItem from="1646915516554" duration="475000" />
+      <workItem from="1646916007957" duration="90000" />
+      <workItem from="1646916109483" duration="7666000" />
+      <workItem from="1646975812704" duration="16000" />
+      <workItem from="1646991163364" duration="3619000" />
+      <workItem from="1646997818207" duration="541000" />
+      <workItem from="1646998393097" duration="2475000" />
+      <workItem from="1647001036218" duration="361000" />
+      <workItem from="1647001411174" duration="268000" />
+      <workItem from="1647001708764" duration="30000" />
+      <workItem from="1647001748999" duration="124000" />
+      <workItem from="1647001907645" duration="54000" />
+      <workItem from="1647001970780" duration="54000" />
+      <workItem from="1647002055518" duration="16000" />
+      <workItem from="1647002158361" duration="12000" />
+      <workItem from="1647002172511" duration="2937000" />
+      <workItem from="1647006362329" duration="22000" />
+      <workItem from="1647006823234" duration="65000" />
+      <workItem from="1647006897689" duration="1529000" />
+      <workItem from="1647011268090" duration="2016000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="481" y="139" key="#Inspections" timestamp="1646915605242">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="481" y="139" key="#Inspections/-1920.0.1280.660/0.0.1707.920/3840.0.1080.1839@0.0.1707.920" timestamp="1646915605242" />
+    <state x="730" y="238" key="FileChooserDialogImpl" timestamp="1647002169022">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="730" y="238" key="FileChooserDialogImpl/-1920.0.1280.660/0.0.1707.920/3840.0.1080.1839@0.0.1707.920" timestamp="1647002169022" />
+    <state x="730" y="238" key="FileChooserDialogImpl/-1920.0.1280.660/0.0.1707.920/3840.0.1080.1880@0.0.1707.920" timestamp="1646280157375" />
+    <state width="1686" height="242" key="GridCell.Tab.0.bottom" timestamp="1646924412039">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="242" key="GridCell.Tab.0.bottom/-1920.0.1280.660/0.0.1707.920/3840.0.1080.1839@0.0.1707.920" timestamp="1646924412039" />
+    <state width="1686" height="242" key="GridCell.Tab.0.center" timestamp="1646924412039">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="242" key="GridCell.Tab.0.center/-1920.0.1280.660/0.0.1707.920/3840.0.1080.1839@0.0.1707.920" timestamp="1646924412039" />
+    <state width="1686" height="242" key="GridCell.Tab.0.left" timestamp="1646924412039">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="242" key="GridCell.Tab.0.left/-1920.0.1280.660/0.0.1707.920/3840.0.1080.1839@0.0.1707.920" timestamp="1646924412039" />
+    <state width="1686" height="242" key="GridCell.Tab.0.right" timestamp="1646924412039">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1686" height="242" key="GridCell.Tab.0.right/-1920.0.1280.660/0.0.1707.920/3840.0.1080.1839@0.0.1707.920" timestamp="1646924412039" />
+    <state x="512" y="211" key="run.anything.popup" timestamp="1646997592303">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="512" y="211" key="run.anything.popup/-1920.0.1280.660/0.0.1707.920/3840.0.1080.1839@0.0.1707.920" timestamp="1646997592303" />
+    <state x="444" y="216" key="search.everywhere.popup" timestamp="1647013013609">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="444" y="216" key="search.everywhere.popup/-1920.0.1280.660/0.0.1707.920/3840.0.1080.1839@0.0.1707.920" timestamp="1647013013609" />
+  </component>
+</project>

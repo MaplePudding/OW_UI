@@ -29,8 +29,8 @@
   },
   "npmClient": "yarn",
   "lint-staged": {
-    "*.{js,css,md}": "prettier --write",
-    "*.{ts,tsx}": "lint --fix"
+    "**/*.{ts,tsx}": "prettier --write",
+    "**/*.{ts,tsx}": "lint --fix"
   },
   "scripts": {
     "prepare": "husky install",

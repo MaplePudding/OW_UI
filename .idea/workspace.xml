@@ -11,53 +11,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef577091-3476-4f1b-9133-a4a04955f706" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.husky/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.husky/commit-msg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.husky/pre-commit" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.storybook/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.storybook/preview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commitlint.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lerna-debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lerna.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/ow-foundation/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/ow-foundation/__tests__/ow-foundation.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/ow-foundation/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/ow-foundation/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/ow-foundation/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/ow-ui/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/ow-ui/__tests__/ow-ui.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/ow-ui/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/ow-ui/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/ow-ui/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stories/Button.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stories/Button.stories.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stories/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stories/Header.stories.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stories/Introduction.stories.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stories/Page.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stories/Page.stories.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stories/assets/code-brackets.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stories/assets/colors.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stories/assets/comments.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stories/assets/direction.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stories/assets/flow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stories/assets/plugin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stories/assets/repo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stories/assets/stackalt.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stories/button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stories/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stories/page.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/OW_UI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ow-foundation/_base/base.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ow-foundation/_base/func.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ow-foundation/button/button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ow-foundation/button/button.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ow-foundation/getBabelConfig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ow-foundation/scripts/compileCss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ow-foundation/scripts/compileLib.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ow-foundation/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ow-foundation/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ow-ui/button/button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ow-ui/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ow-ui/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintignore" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lerna-debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/lerna-debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lerna.json" beforeDir="false" afterPath="$PROJECT_DIR$/lerna.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/ow-foundation/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/ow-foundation/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/ow-foundation/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/ow-foundation/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/ow-ui/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/ow-ui/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/ow-ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/ow-ui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,10 +48,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript JSX File" />
-        <option value="TypeScript File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
@@ -96,7 +77,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="E:\OW_UI\node_modules\prettier" />
-    <property name="ts.external.directory.path" value="E:\OW_UI\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="E:\Webstorm\WebStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -142,6 +123,12 @@
       <workItem from="1647006823234" duration="65000" />
       <workItem from="1647006897689" duration="1529000" />
       <workItem from="1647011268090" duration="2016000" />
+      <workItem from="1647080873993" duration="605000" />
+      <workItem from="1647093134089" duration="1754000" />
+      <workItem from="1647099013393" duration="177000" />
+      <workItem from="1647144850780" duration="8980000" />
+      <workItem from="1647160345824" duration="3603000" />
+      <workItem from="1647166694467" duration="4347000" />
     </task>
     <servers />
   </component>
@@ -165,10 +152,10 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="481" y="139" key="#Inspections/-1920.0.1280.660/0.0.1707.920/3840.0.1080.1839@0.0.1707.920" timestamp="1646915605242" />
-    <state x="730" y="238" key="FileChooserDialogImpl" timestamp="1647002169022">
+    <state x="730" y="238" key="FileChooserDialogImpl" timestamp="1647082822274">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="730" y="238" key="FileChooserDialogImpl/-1920.0.1280.660/0.0.1707.920/3840.0.1080.1839@0.0.1707.920" timestamp="1647002169022" />
+    <state x="730" y="238" key="FileChooserDialogImpl/-1920.0.1280.660/0.0.1707.920/3840.0.1080.1839@0.0.1707.920" timestamp="1647082822274" />
     <state x="730" y="238" key="FileChooserDialogImpl/-1920.0.1280.660/0.0.1707.920/3840.0.1080.1880@0.0.1707.920" timestamp="1646280157375" />
     <state width="1686" height="242" key="GridCell.Tab.0.bottom" timestamp="1646924412039">
       <screen x="0" y="0" width="1707" height="920" />

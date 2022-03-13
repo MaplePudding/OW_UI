@@ -1,0 +1,33 @@
+.ow-button{
+    color: white;
+    border: 1px solid transparent;
+}
+
+.ow-button:hover{
+    border: 1px solid white;
+}
+
+.ow-button-primary{
+    background: rgb(28, 117, 188) ;
+}
+
+.ow-button-warning{
+    background: rgb(65, 149, 201);
+}
+
+.ow-button-small{
+    width: 66px;
+    height: 24px;
+    font-size: 0.9rem;
+}
+
+.ow-button-default{
+    width: 80px;
+    height: 32px;
+}
+
+.ow-button-large{
+    width: 90px;
+    height: 40px;
+    font-size: 1.1rem;
+}

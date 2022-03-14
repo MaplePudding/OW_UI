@@ -1,5 +1,6 @@
 {
   "name": "@maple/ow-ui",
+  "type": "module",
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "maple <fengtangbuding@gmail.com>",

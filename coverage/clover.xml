@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1647268488490" clover="3.2.0">
+  <project timestamp="1647268488490" name="All files">
+    <metrics statements="20" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1" elements="24" coveredelements="20" complexity="0" loc="20" ncloc="20" packages="3" files="4" classes="4"/>
+    <package name="ow-foundation._base">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="base.ts" path="E:\OW_UI\packages\ow-foundation\_base\base.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+      <file name="func.ts" path="E:\OW_UI\packages\ow-foundation\_base\func.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="ow-foundation.button">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="button.ts" path="E:\OW_UI\packages\ow-foundation\button\button.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="ow-ui.button">
+      <metrics statements="14" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="button.jsx" path="E:\OW_UI\packages\ow-ui\button\button.jsx">
+        <metrics statements="14" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="47" count="2" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="77" count="1" type="stmt"/>
+        <line num="94" count="1" type="stmt"/>
+        <line num="113" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

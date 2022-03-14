@@ -8,11 +8,19 @@
 }
 
 .ow-button-primary{
+    background: rgb(62, 140, 202);
+}
+
+.ow-button-primary:hover{
     background: rgb(28, 117, 188) ;
 }
 
 .ow-button-warning{
-    background: rgb(65, 149, 201);
+    background: rgb(255, 227, 44);
+}
+
+.ow-button-warning:hover{
+    background: rgb(255, 185, 44);
 }
 
 .ow-button-small{

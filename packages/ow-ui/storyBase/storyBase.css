@@ -1,6 +1,17 @@
+@import '../../ow-foundation/_base/reset.css';
+
+.p-10{
+    padding: 10px;
+}
+
 .flex-row{
     padding: 10px;
     display: flex;
+}
+
+.flex-center{
+    justify-content: center;
+    align-items: center;
 }
 
 .flex-row-start{

@@ -22,11 +22,28 @@ function WarningButtons(props) {
   );
 }
 
+function DisabledButton(props){
+  return (
+    <div className='p-10 flex-row flex-center'>
+      <Button type='primary' size='default' disabled>{props.text}</Button>
+    </div>
+  )
+}
+
+function BlockButton(props) {
+  return (
+    <div className='p-10 flex-row flex-center'>
+      <Button block type='primary' size='default' >{props.text}</Button>
+    </div>
+  )
+}
 function Template(args) {
   return (
-    <div className="flex-col flex-col-start">
+    <div className="flex-col flex-col-around">
       <PrimaryButtons text={args.text} />
       <WarningButtons text={args.text} />
+      <DisabledButton text={args.text}/>
+      <BlockButton text={args.text} />
     </div>
   );
 }

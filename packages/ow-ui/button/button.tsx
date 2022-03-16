@@ -54,7 +54,8 @@ function Button(props:ButtonProps) {
       {
         [`${prefix}-${type}`]: !disabled,
         [`${prefix}-disabled`]: disabled,
-        [`${prefix}-${size}`]: true,
+        [`${prefix}-${size}`]: !block,
+        [`${prefix}-block`]: block,
       },
       className,
     ),
@@ -65,9 +66,9 @@ function Button(props:ButtonProps) {
     <button
       {...baseProps}
       onClick={(e) => { e.stopPropagation(); onClick(e); }}
-      onMouseEnter={onMouseEnter}
-      onMouseLeave={onMouseLeave}
-      onMouseDown={onMouseDown}
+      onMouseEnter={(e) => { e.stopPropagation(); onMouseEnter(e); }}
+      onMouseLeave={(e) => { e.stopPropagation(); onMouseLeave(e); }}
+      onMouseDown={(e) => onMouseDown(e)}
     >
       {children}
     </button>

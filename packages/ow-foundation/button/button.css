@@ -1,6 +1,10 @@
 .ow-button{
+    padding: 10px;
     color: white;
     border: 1px solid transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .ow-button:hover{
@@ -13,6 +17,12 @@
 
 .ow-button-primary:hover{
     background: rgb(28, 117, 188) ;
+    border: 1px solid white;
+}
+
+.ow-button-disabled{
+    cursor: not-allowed;
+    background: #7F8083;
 }
 
 .ow-button-warning{
@@ -21,7 +31,9 @@
 
 .ow-button-warning:hover{
     background: rgb(255, 185, 44);
+    border: 1px solid white;
 }
+
 
 .ow-button-small{
     width: 66px;
@@ -38,4 +50,8 @@
     width: 90px;
     height: 40px;
     font-size: 1.1rem;
+}
+
+.ow-button-block{
+    display: block;
 }

@@ -45,8 +45,8 @@
     "prepare": "husky install",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "test": "jest",
-    "test:coveralls": "cross-env NODE_ENV=test type=unit jest --notify --coverage --coverageReporters=text-lcov | coveralls",
+    "test": "cross-env NODE_ENV=test type=unit jest --notify --coverage",
+    "test:coveralls": "cross-env NODE_ENV=test type=unit jest --notify --coverage"
   },
   "config": {
     "commitizen": {

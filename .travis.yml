@@ -1,0 +1,9 @@
+language: node_js
+#指定nodejs版本，可以指定多个
+node_js:
+  - 14
+
+#运行的脚本命令
+cache: npm
+script:
+  - yarn coveralls

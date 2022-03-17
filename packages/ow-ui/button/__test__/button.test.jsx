@@ -11,6 +11,8 @@ describe('Button', () =>{
 
   test('button with custom className & style', () =>{
     render(<Button className='testClass' style={{background:'black'}}>test</Button>)
+    expect(screen.getByText('test')).toHaveClass('testClass')
+    expect(screen.getByText('test')).toHaveStyle('background: black')
   })
 
   test('button disabled', () =>{

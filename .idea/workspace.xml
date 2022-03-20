@@ -13,16 +13,6 @@
     <list default="true" id="ef577091-3476-4f1b-9133-a4a04955f706" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.github/workflows/workflows.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/workflows.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/ow-foundation/getBabelConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/ow-foundation/getBabelConfig.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/ow-foundation/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/ow-foundation/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/ow-ui/button/button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/ow-ui/button/button.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/ow-ui/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/ow-ui/gulpfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/ow-ui/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/ow-ui/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/ow-ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/ow-ui/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/ow-ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/ow-ui/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/ow-ui/select/select.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/ow-ui/select/select.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/ow-ui/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/ow-ui/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/ow-ui/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/packages/ow-ui/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +41,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled3" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -134,7 +124,7 @@
       <workItem from="1647697168247" duration="5000" />
       <workItem from="1647698886755" duration="2859000" />
       <workItem from="1647701874931" duration="1584000" />
-      <workItem from="1647752863258" duration="2193000" />
+      <workItem from="1647752863258" duration="2583000" />
     </task>
     <servers />
   </component>
@@ -166,10 +156,10 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="552" y="298" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1920.0.1280.660/0.0.1707.920/3840.0.1080.1839@0.0.1707.920" timestamp="1647177434108" />
-    <state x="730" y="238" key="FileChooserDialogImpl" timestamp="1647701746380">
+    <state x="730" y="238" key="FileChooserDialogImpl" timestamp="1647755100255">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="730" y="238" key="FileChooserDialogImpl/-1920.0.1280.660/0.0.1707.920/3840.0.1080.1839@0.0.1707.920" timestamp="1647701746380" />
+    <state x="730" y="238" key="FileChooserDialogImpl/-1920.0.1280.660/0.0.1707.920/3840.0.1080.1839@0.0.1707.920" timestamp="1647755100255" />
     <state x="730" y="238" key="FileChooserDialogImpl/-1920.0.1280.660/0.0.1707.920/3840.0.1080.1880@0.0.1707.920" timestamp="1646280157375" />
     <state width="1686" height="242" key="GridCell.Tab.0.bottom" timestamp="1646924412039">
       <screen x="0" y="0" width="1707" height="920" />

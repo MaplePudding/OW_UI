@@ -21,7 +21,7 @@ jobs:
         run: npm i
       - name: bootstrap
         run: npm i -g lerna && npm run bootstrap
-      - name:eslint
+      - name: eslint
         run: eslint **/*.{js,jsx}
       - name: test
         run: npm run test:coveralls

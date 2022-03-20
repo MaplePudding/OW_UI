@@ -22,7 +22,7 @@ jobs:
       - name: bootstrap
         run: npm i -g lerna && npm run bootstrap
       - name: eslint
-        run: eslint **/*.{js,jsx}
+        run: eslint **/*.{ts,tsx}
       - name: test
         run: npm run test:coveralls
       - name: coveralls

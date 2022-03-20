@@ -2,7 +2,7 @@ import * as React from 'react';
 
 function Select() {
   return (
-    <div />
+    <div>select</div>
   );
 }
 

@@ -1,12 +1,12 @@
 /* eslint-disable react/jsx-props-no-spreading */
 import * as PropTypes from 'prop-types';
 import * as React from 'react';
-import { noop } from '@maple/ow-foundation/_base/func';
+import { noop } from '@maplex/ow-foundation/_base/func';
 import {
   btnType, htmlType, size, iconPosition, prefix,
-} from '@maple/ow-foundation/button/button';
+} from '@maplex/ow-foundation/button/button';
 import classNames from 'classnames';
-import '@maple/ow-foundation/button/button.css';
+import '@maplex/ow-foundation/button/button.css';
 
 interface ButtonProps{
   children?: React.ReactText,

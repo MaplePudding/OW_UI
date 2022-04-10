@@ -35,7 +35,7 @@ describe('Tooltip', () =>{
 
   test('portal inserted when click', async () =>{
     render(
-      <Tooltip content={'tooltip'}>
+      <Tooltip content={'tooltip'} trigger={'click'}>
         <div>click</div>
       </Tooltip>
     )

@@ -185,8 +185,8 @@ export class TooltipFoundation<
       top = top - containerRect.top + containerRect.scrollTop;
     }
     const style: Record<string, string | number> = {
-      left: this._roundPixel(left),
-      top: this._roundPixel(top),
+      left: TooltipFoundation._roundPixel(left),
+      top: TooltipFoundation._roundPixel(top),
       transform: `translate(${translateX}, ${translateY})`,
       position: 'absolute',
     };

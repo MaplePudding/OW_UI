@@ -3,7 +3,7 @@ import * as PropTypes from 'prop-types';
 import * as React from 'react';
 import { noop } from '@maplex/ow-foundation/_base/func';
 import {
-  btnType, htmlType, size, iconPosition, prefix,
+  btnType, htmlType, size, prefix,
 } from '@maplex/ow-foundation/button/button';
 import classNames from 'classnames';
 import '@maplex/ow-foundation/button/button.css';
@@ -15,9 +15,6 @@ interface ButtonProps{
   htmlType?: htmlType,
   disabled?: boolean,
   size?: size,
-  icon?: React.ReactNode,
-  iconPosition?: iconPosition,
-  loading?: boolean,
   style?: React.CSSProperties,
   className?:string,
   id?:string,
@@ -79,9 +76,6 @@ Button.propTypes = {
   disabled: PropTypes.bool,
   size: PropTypes.string,
   style: PropTypes.objectOf(PropTypes.object),
-  icon: PropTypes.node,
-  iconPosition: PropTypes.string,
-  loading: PropTypes.bool,
   className: PropTypes.string,
   onClick: PropTypes.func,
   onMouseDown: PropTypes.func,
@@ -99,9 +93,6 @@ Button.defaultProps = {
   id: null,
   style: null,
   size: 'default',
-  icon: null,
-  iconPosition: 'left',
-  loading: false,
   onClick: noop,
   onMouseDown: noop,
   onMouseEnter: noop,

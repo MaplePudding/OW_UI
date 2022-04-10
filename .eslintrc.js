@@ -35,6 +35,8 @@ module.exports = {
       }
     ],
     "react/forbid-prop-types": [0],
-    "react/button-has-type": [0]
+    "react/button-has-type": [0],
+    "no-underscore-dangle": 'off',
+    "no-unused-vars": ["error", { "argsIgnorePattern": "^_" }],
   },
 };

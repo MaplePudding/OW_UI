@@ -1,0 +1,14 @@
+.ow-tooltip{
+    width: auto;
+    display: inline-block;
+}
+
+.ow-tooltip-portal {
+    padding: 8px;
+    font-size: 0.7rem;
+    border-radius: 4px;
+    background: #41464C;
+    display: inline-block;
+    text-align: center;
+    color: whitesmoke;
+}
